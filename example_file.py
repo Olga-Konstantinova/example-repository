@@ -47,6 +47,8 @@ custom_formatting = [
     3,  4,  5,
     6,  7,  8,
 ]
+
+
 # fmt: on
 regular_formatting = [
     0,
